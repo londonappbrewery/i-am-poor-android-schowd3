@@ -28,7 +28,7 @@
         android:layout_centerHorizontal="true"
         android:text="@string/i_am_poor"
         android:textColor="#1F1D1D"
-        android:textSize="40sp"
+        android:textSize="39sp"
         ></TextView>
 
 
